@@ -20,5 +20,10 @@
             android:layout_height="match_parent"
             android:name="com.example.inter_http.ProgressFragment" />
 
+        <TextView
+                android:id="@+id/header"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="22sp" />
 
 </android.support.constraint.ConstraintLayout>
